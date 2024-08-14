@@ -58,7 +58,7 @@ Este projeto é um teste aplicado pela forleven para comprovar habilidades bási
 
 ### Tela Home - Get
 
-<img src="./src/assets/snapshots/home-post.png" alt="Tela Home" width="300" />
+<img src="./src/assets/snapshots/home.png" alt="Tela Home" width="300" />
 
 ### Tela Home - Post
 
@@ -82,10 +82,16 @@ Após fazer as requisições **POST** e **PUT** para a API é retornado no conso
 </br>
 <img src="./src/assets/snapshots/requsicoes.png" alt="resultado das requisições console" width="600" />
 
-### Telas redes sociais
+### Tela facebook
 
 <img src="./src/assets/snapshots/facebook.png" alt="Tela dos cometários do post" width="300" />
+
+### Tela gmail
+
 <img src="./src/assets/snapshots/gmail.png" alt="Tela dos cometários do post" width="300" />
+
+### Tela X (Antigo Twiter)
+
 <img src="./src/assets/snapshots/x.png" alt="Tela dos cometários do post" width="300" />
 
 ## Como Executar o Projeto
@@ -95,8 +101,8 @@ Para executar o projeto siga as instruções:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/LucasDoGit/facetime
-cd facetime
+git clone https://github.com/LucasDoGit/frontend-forleven-test
+cd frontend-forleven-test
 ```
 
 2. Instale as dependências:
