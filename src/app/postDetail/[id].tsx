@@ -94,6 +94,7 @@ const styles = StyleSheet.create({
     marginTop: 38,
     marginBottom: 20,
     paddingHorizontal: 14,
+    backgroundColor: '#fff'
   },
   title: {
     fontSize: 24,
